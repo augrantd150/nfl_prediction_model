@@ -1,4 +1,6 @@
-# NFL Prediction Model 🏈
+# NFL Quant Research Lab 🏈📈
+
+**NFL forecasting · quantitative research · reproducible backtesting · Python**
 
 A long-term NFL forecasting and quantitative research side project, built while studying and learning Python.
 
@@ -45,6 +47,12 @@ Code is being developed locally as part of the learning process; not all feature
 - Make one small, understandable improvement at a time.
 - Prefer reproducible research and honest out-of-sample testing over impressive-looking backtests.
 - Keep full numeric precision for calculations; round only for display.
+
+## Research workflow
+
+Every serious model experiment should document: (1) hypothesis, (2) data and as-of timestamps, (3) features, (4) train/validation/test periods, (5) baseline, (6) evaluation metrics, (7) limitations and next steps. Avoid tuning hyperparameters on the final test set, and never use information not available before kickoff.
+
+Research milestones and conventions: [RESEARCH.md](RESEARCH.md). Record experiments with reproducible settings and data versions rather than treating a lucky backtest as proof of an edge.
 
 ## Project status
 
