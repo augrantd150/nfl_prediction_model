@@ -4,9 +4,15 @@ A long-term NFL forecasting and quantitative research side project, built while 
 
 ## Mission
 
-Build an NFL analytics and forecasting system from scratch, improving both programming skills and statistical reasoning along the way. The long-term ambition is to explore whether the project can eventually generate **modest, consistent revenue**—for example, through useful analytics software, research tools, or other legitimate products.
+Build an NFL analytics and forecasting system from scratch, improving both programming skills and statistical reasoning along the way. The long-term ambitions are (1) to explore whether the project can eventually generate **modest, consistent revenue**—for example, through useful analytics software, research tools, or other legitimate products—and (2) to build a credible, public **quantitative research / quant developer portfolio** that could help secure a quant internship or job.
 
 **This is a goal, not a claim of profitability.** Predictive accuracy does not automatically translate into profitable betting, and no model can guarantee returns.
+
+## Quant career objective
+
+Use this project to demonstrate the skills valued in quantitative research and development: Python software engineering, probability and statistics, data pipelines, careful backtesting, optimization, out-of-sample evaluation, reproducibility, and clear research communication. Over time, add unit tests, documented experiments, visualizations, and well-explained results to make the work reviewable by prospective employers.
+
+A sports forecasting project can strengthen an application, but it is **not a guarantee of a quant job**. Complement it with probability, statistics, linear algebra, algorithms, and—depending on the role—C++ and financial market fundamentals.
 
 ## Current progress
 
@@ -30,6 +36,8 @@ Code is being developed locally as part of the learning process; not all feature
 - [ ] Explore historical odds and value-bet hypotheses while accounting for bookmaker margin, costs, and variance.
 - [ ] Build a small dashboard or useful analytics product.
 - [ ] Investigate sustainable, lawful monetization only after demonstrating real value.
+- [ ] Publish reproducible research reports, unit tests, and benchmark comparisons as a quant-job portfolio.
+- [ ] Prepare a concise project write-up suitable for quant internship and job applications.
 
 ## Learning principles
 
